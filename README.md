@@ -9,7 +9,7 @@ For this analysis, we used the following breakdown:
 4. load the data to a PostgreSQL Movie Database.
 
 ## Resources
-- Data Source: [wikipedia-movies.json](wikipedia_moves.json), [movies_metadata.csv](movies_metadata.csv), [ratings.csv](ratings.csv)
+- Data Source: [wikipedia-movies.json](https://github.com/clondon0792/Movies-ETL/blob/main/Resources/wikipedia-movies.json), [movies_metadata.csv](https://github.com/clondon0792/Movies-ETL/blob/main/Resources/movies_metadata.csv), [ratings.csv](https://github.com/clondon0792/Movies-ETL/blob/main/Resources/ratings.csv)
 - Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, PostgreSQL 11.9, pgAdmin 4
 
 ## Results
@@ -29,10 +29,10 @@ The Kaggle and rating data were then merged with the Wikipedia movies DataFrame.
 ### Load the data to a PostgreSQL Movie Database
 <br/>
 <p align="center">
-  <img src="insert image"> 
+  <img src="https://github.com/clondon0792/Movies-ETL/blob/main/Resources/movies_query.png"> 
 </p>
 <p align="center">
-  <img src="insert image"> 
+  <img src="https://github.com/clondon0792/Movies-ETL/blob/main/Resources/ratings_query.png"> 
 </p>
 <br/>
 
